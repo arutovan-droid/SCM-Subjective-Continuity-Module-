@@ -36,3 +36,9 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
+chain.wal
+*.wal
+*.db
+*.sqlite*
+data/
+secrets/
